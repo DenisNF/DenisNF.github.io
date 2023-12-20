@@ -1,0 +1,34 @@
+body {
+  margin: 0px;
+  font-family: 'fira sans', arial, sans-serif;
+  color: #001426;
+}
+
+h1,
+h2,
+h3,
+p {
+
+  margin: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  max-height: auto;
+  display: block;
+}
+
+.subtitulo {
+  font-style: ExtraBold;
+  font-size: 7.5rem;
+  line-height: 1;
+  word-break: break-all;
+  max-width: 5ch;
+  text-transform: uppercase;
+}
